@@ -35,6 +35,8 @@ Update the application.properties file (located in src/main/resources) with your
 
 spring.datasource.url=jdbc:oracle:thin:@localhost:1521:xe spring.datasource.username=your_username spring.datasource.password=your_password spring.jpa.hibernate.ddl-auto=update spring.jpa.show-sql=true
 
+Replace the "PASTE_YOUR_GITHUB_ACCESS_TOKEN_HERE" with you actual Github Access Token
+
 Run the backend server using Maven: mvn spring-boot-run
 
 The application will be available at http://localhost:8080
@@ -62,6 +64,6 @@ Technologies Used
 
 Backend: Spring Boot (REST API) Hibernate (ORM) Oracle Database Frontend: React.js (UI) Axios (HTTP Client)
 
-Known Issues A project can be deleted only when all the tasks associated with it are deleted. This is because the cascading delete behavior is not set in the database. If you need it you can ON DELETE CASCADE constraint is correctly applied.
+Known Issues: A project can be deleted only when all the tasks associated with it are deleted. This is because the cascading delete behavior is not set in the database. If you need it you can alter the table to turn ON DELETE CASCADE constraint.
 
 Contributors Rahul Matta - Developer and Maintainer
