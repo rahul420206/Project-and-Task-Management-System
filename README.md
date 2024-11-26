@@ -21,6 +21,8 @@ This repository hosts the **Project and Task Management System**, designed to he
 ### **1. Login Page**
 A user-friendly login page for secure access.
 
+![Project Creation](frontend/public/2.png)
+
 ### **2. Project Management**
 - **Create**, **view**, **update**, and **delete** projects.
 - Automatically delete all associated tasks when a project is deleted.
@@ -49,6 +51,8 @@ A user-friendly login page for secure access.
 ### **5. User Interface**
 - A responsive and interactive web interface.
 - Inline form validation and error handling.
+
+  ![Project Creation](frontend/public/1.png)
 
 ### **6. Exporting Projects**
 Export projects as Gists for easy sharing.
