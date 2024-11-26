@@ -26,7 +26,7 @@ A user-friendly login page for secure access.
 - Automatically delete all associated tasks when a project is deleted.
 
 #### Project Creation:
-![Project Creation](https://drive.google.com/file/d/1eX_JqVGXrur_LwU6XuibfnpXPh5BOFOI/view?usp=sharing)
+![Project Creation](frontend/public/PC.png)
 
 #### Updating Projects:
 ![Updating Projects](attachment:image2.jpg)
