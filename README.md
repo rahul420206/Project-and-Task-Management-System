@@ -29,7 +29,7 @@ A user-friendly login page for secure access.
 ![Project Creation](frontend/public/PC.png)
 
 #### Updating Projects:
-![Updating Projects](attachment:image2.jpg)
+![Updating Projects](frontend/public/PU.png)
 
 ### **3. Task Management**
 - Add tasks associated with specific projects.
@@ -37,10 +37,10 @@ A user-friendly login page for secure access.
 - Delete individual tasks.
 
 #### Adding Tasks:
-![Adding Tasks](attachment:image3.jpg)
+![Adding Tasks](frontend/public/AT.png)
 
 #### Updating Tasks:
-![Updating Tasks](attachment:image4.jpg)
+![Updating Tasks](frontend/public/UT.png)
 
 ### **4. Database Integration**
 - Uses a relational database (e.g., Oracle) for persistent storage.
@@ -53,7 +53,7 @@ A user-friendly login page for secure access.
 ### **6. Exporting Projects**
 Export projects as Gists for easy sharing.
 
-![Exporting Gists](attachment:image5.jpg)
+![Exporting Gists](frontend/public/Gist.png)
 
 ---
 
