@@ -65,7 +65,7 @@ Export projects as Gists for easy sharing.
 Ensure the following tools and environments are set up:
 - **Java (JDK 11 or later)**
 - **Maven (Build Tool)**
-- **Node.js and npm**
+- **React.js and npm**
 - **Oracle Database** (or any compatible RDBMS)
 - **Git** (for cloning the repository)
 
