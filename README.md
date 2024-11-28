@@ -57,7 +57,7 @@ A user-friendly login page for secure access.
 ### **6. Exporting Projects**
 Export projects as Gists for easy sharing.
 
-![Exporting Gists](frontend/public/Gist.png)
+![Exporting Gists](frontend/public/a.png)
 
 ---
 
